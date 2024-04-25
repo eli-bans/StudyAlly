@@ -60,6 +60,6 @@ StudyAlly is a web application designed to facilitate collaborative studying amo
 ---
 
 **Acknowledgements:**
+- Acknowledgements to [@Richard-Quayson](https://github.com/Richard-Quayson) for his contributions.
 - Special thanks to the developers and contributors of Django, React, and Vite for providing powerful frameworks and tools for building web applications.
-- Would also like to acknowledge @Richard-Quayson
   
