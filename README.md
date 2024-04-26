@@ -56,6 +56,7 @@ StudyAlly is a web application designed to facilitate collaborative studying amo
 
 **Authors:**
 - [@Richard-Quayson](https://github.com/Richard-Quayson)
+- [@Sarpong Morgan](https://github.com/Morgan11-tech)
 
 ---
 
