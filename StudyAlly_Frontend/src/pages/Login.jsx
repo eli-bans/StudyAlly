@@ -73,7 +73,7 @@ function Login() {
                 value={formData.email}
                 onChange={handleChange} />
               </div>
-                <div className='flex items-center justify-between'>
+                <div>
                 <label className='block mb-2 text-sm font-medium leading-6 text-gray-900 text-left'>Password</label>
                     <input className='bg-gray-50 border border-gray-300 text-gray-900 w-full p-2.5 rounded-lg focus:ring-2 focus:ring-purple-600'
                     type="password"
@@ -87,13 +87,11 @@ function Login() {
               </div>
             </form>
 
-
-
           </div>
           {/* left side */}
           <div className='flex-1 bg-purple-600 rounded-r-lg p-1 hidden lg:block'>
-            <p className='text-2xl text-white font-bold mt-10'>Don't have an account? <br /> Please Sign up!</p>
-            <button className='bg-white text-purple-600 font-semibold text-center w-1/2 p-2.5 rounded-full focus:ring-2 focus-ring-600 ring-inset mt-5' type='button'>Sign Up</button>
+            <p className='text-2xl text-white font-bold px-10 pt-10 pb-5'>Don't have an account? <br /> Please Sign up!</p>
+            <button className='bg-white text-purple-600 font-semibold text-center w-1/2 p-2.5 rounded-full focus:ring-2 focus-ring-600 ring-inset mx-10' type='button'>Sign Up</button>
           </div>
         </div>
       </div>
